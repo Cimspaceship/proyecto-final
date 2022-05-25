@@ -283,7 +283,7 @@ footer div img:hover {
       align-items: center;
       justify-content: center; }
     footer img {
-      max-width: 100%;
+      max-width: 55%;
       padding: 5px; }
   /*PRODUCTS*/
   .catalogo-products {
